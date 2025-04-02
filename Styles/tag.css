@@ -1,0 +1,32 @@
+header {
+    margin: 0 auto;
+    width: 100%; 
+    box-sizing: border-box;
+    padding: 0 20px; 
+}
+body {
+    margin: 0;
+    line-height: 1.6;
+}
+main {
+    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;     
+}
+footer {
+    background-color: rgb(109, 109, 109);
+    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box; 
+    text-align: center;
+    padding: 100px 0px 0px 0px; 
+}
+::placeholder {opacity: 35%;}
+footer p {text-align: center;
+}
+footer p {background-color: rgb(82, 82, 82);}
+img {
+    max-width: 100%;
+    height: auto;
+}
